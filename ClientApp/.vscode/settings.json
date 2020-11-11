@@ -5,7 +5,7 @@
     },
     "git.ignoreLimitWarning": true,
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "svelte.svelte-vscode",
     "javascript.preferences.quoteStyle": "single",
-    "typescript.preferences.quoteStyle": "single"
+    "typescript.preferences.quoteStyle": "single",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
