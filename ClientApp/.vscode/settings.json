@@ -3,5 +3,9 @@
         "**/.vscode": true,
         "node_modules": true
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "svelte.svelte-vscode",
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single"
 }
